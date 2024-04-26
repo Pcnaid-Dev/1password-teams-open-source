@@ -2753,3 +2753,10 @@ https://github.com/novuhq/novu/
 
 JavaScript library to encode & decode HTML & XML entities with ease & speed.
 https://github.com/fb55/entities
+
+### EcoSphere Connect
+
+EcoSphere Connect is an open-source energy management initiative by [Pcnaid Inc](https://pcnaid.com), leveraging its status as an [ENERGY STAR® Partner](https://www.energystar.gov/partner-resources/partner-list/all-partner-list), [Texas Public Utility Commission Broker](https://www.puc.texas.gov/industry/electric/directories/brk/report_brk.aspx?ID=BRSQL01DB1245987300001), and [Nationwide Commercial Energy Partner](https://energy.pcnaid.com/#/). This project is designed to assist businesses in adopting sustainable practices through a platform that provides tools and guidance for optimizing energy efficiency and reducing environmental impacts. All resources are freely available for community use and contributions.
+For more information, visit [Pcnaid Inc](https://pcnaid.com).
+
+
